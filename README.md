@@ -24,7 +24,8 @@ Member Purchases: Track the first item purchased by a customer after becoming a 
 Pre-Member Purchases: Identify the last item purchased by a customer before becoming a member.<br>
 Member Transactions: Calculate the total items and spending of each member before joining.<br>
 Customer Points: Calculate customer points based on spending and special multipliers.<br>
-Points Calculation: Calculate points earned by customers during specific periods, including special promotion periods.<br>
+Points Calculation: Calculate points earned by customers during specific periods, including special promotion periods.<br>![danny](https://github.com/PoshankBramhe/CaseStudy_of_Danny-s_Dinner/assets/154652656/725f1d1b-018c-41a6-948f-215feb3881aa)
+
 <h3>Contributors</h3><br>
 Database Contributors: Mention contributors involved in creating and refining the database.<br>
 <h3>Resources</h3><br>
