@@ -24,11 +24,13 @@ Member Purchases: Track the first item purchased by a customer after becoming a 
 Pre-Member Purchases: Identify the last item purchased by a customer before becoming a member.<br>
 Member Transactions: Calculate the total items and spending of each member before joining.<br>
 Customer Points: Calculate customer points based on spending and special multipliers.<br>
-Points Calculation: Calculate points earned by customers during specific periods, including special promotion periods.<br>![danny](https://github.com/PoshankBramhe/CaseStudy_of_Danny-s_Dinner/assets/154652656/725f1d1b-018c-41a6-948f-215feb3881aa)
-
+Points Calculation: Calculate points earned by customers during specific periods, including special promotion periods.<br>
 <h3>Contributors</h3><br>
 Database Contributors: Mention contributors involved in creating and refining the database.<br>
 <h3>Resources</h3><br>
 SQL Documentation: Links to SQL references and documentation used during database creation and querying.<br>
 <h3>Feedback and Support</h3><br>
 For any queries, feedback, or suggestions related to Danny's Dinner Database, please reach out to [poshankb@gmail.com].
+
+[danny](https://github.com/PoshankBramhe/CaseStudy_of_Danny-s_Dinner/assets/154652656/52b6b118-3f19-4078-b85e-916d50ad2ccc)
+
