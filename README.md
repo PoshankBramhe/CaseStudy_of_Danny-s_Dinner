@@ -32,5 +32,5 @@ SQL Documentation: Links to SQL references and documentation used during databas
 <h3>Feedback and Support</h3><br>
 For any queries, feedback, or suggestions related to Danny's Dinner Database, please reach out to [poshankb@gmail.com].
 
-[danny](https://github.com/PoshankBramhe/CaseStudy_of_Danny-s_Dinner/assets/154652656/52b6b118-3f19-4078-b85e-916d50ad2ccc)
+![danny](https://github.com/PoshankBramhe/CaseStudy_of_Danny-s_Dinner/assets/154652656/a0d34160-3161-4c90-81c3-6271e2b35546)
 
